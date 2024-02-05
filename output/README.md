@@ -1,8 +1,8 @@
-# test
-  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+# Readme Generator
+  ![License](https://img.shields.io/badge/License-GNU-blue.svg)
   
   ## Description 
-  test
+  This is a readme generator.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -13,21 +13,21 @@
   - [Questions](#questions)
   
   ## Installation
-  N/A
+  You need to install Nodejs first, then npm i.
 
   ## Usage
-  N/A
+  node index.js
 
   ## License
-  This project is covered under the MIT license.
+  This project is covered under the GNU license.
 
   ## Contributing
-  N/A
+  n/a
 
   ## Tests
-  N/A
+  n/a
 
   ## Questions
-  If you have any further question, please feel free to contact me by email: [test](mailto:test)
+  If you have any further question, please feel free to contact me by email: [adam.nyitrai87@gmail.com](mailto:adam.nyitrai87@gmail.com)
   
   If you would like to check my other projects, please visit my GitHub profile: [https://github.com/nyitrai87](https://github.com/nyitrai87).
