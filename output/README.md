@@ -13,21 +13,21 @@
   - [Questions](#questions)
   
   ## Installation
-  test
+  N/A
 
   ## Usage
-  test
+  N/A
 
   ## License
   This project is covered under the MIT license.
 
   ## Contributing
-  test
+  N/A
 
   ## Tests
-  test
+  N/A
 
   ## Questions
-  If you have any further question, please feel free to contact me by email: [adam.nyitrai@gmail.com](mailto:adam.nyitrai@gmail.com)
+  If you have any further question, please feel free to contact me by email: [test](mailto:test)
   
   If you would like to check my other projects, please visit my GitHub profile: [https://github.com/nyitrai87](https://github.com/nyitrai87).
