@@ -15,19 +15,19 @@ function generateMarkdown(data) {
   - [Questions](#questions)
   
   ## Installation
-  ${data.installation}
+  ${data.installation !== '' ? data.installation : 'N/A'}
 
   ## Usage
-  ${data.usage}
+  ${data.usage !== '' ? data.usage : 'N/A'}
 
   ## License
   This project is covered under the ${data.license} license.
 
   ## Contributing
-  ${data.contributing}
+  ${data.contributing !== '' ? data.contributing : 'N/A'}
 
   ## Tests
-  ${data.tests}
+  ${data.tests !== '' ? data.tests : 'N/A'}
 
   ## Questions
   If you have any further question, please feel free to contact me by email: [${data.email}](mailto:${data.email})

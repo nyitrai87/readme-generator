@@ -9,11 +9,25 @@ const questions = [
         type: 'input',
         name: 'title',
         message: 'What is the title of your project?',
+        validate(value) {
+            if (value) {
+                return true;
+            } else {
+                return 'Title of the project cannot be blank!'
+            }
+        }
     },
     {
         type: 'input',
         name: 'description',
         message: 'Please provide a short description of your project.',
+        validate(value) {
+            if (value) {
+                return true;
+            } else {
+                return 'Description of the project cannot be blank!'
+            }
+        }
     },
     {
         type: 'input',
@@ -45,11 +59,25 @@ const questions = [
         type: 'input',
         name: 'github',
         message: 'What is your GitHub username?',
+        validate(value) {
+            if (value) {
+                return true;
+            } else {
+                return 'Please provide your GitHub username!'
+            }
+        }
     },
     {
         type: 'input',
         name: 'email',
         message: 'What is your email address?',
+        validate(value) {
+            if (value) {
+                return true;
+            } else {
+                return 'Please provide your email address!'
+            }
+        }
     },
 ];
 
